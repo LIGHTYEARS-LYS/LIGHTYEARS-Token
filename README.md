@@ -4,6 +4,10 @@ LIGHTYEARS - LYS - visit the official Twitter page https://twitter.com/LIGHTYEAR
 
 bitcointalk thread at https://bitcointalk.org/index.php?topic=2571812.0
 
+Telegram:https://t.me/joinchat/AAAAAE6pwbdI7nOrYJ2W-w
+
+Facebook:https://www.facebook.com/LIGHTYEARS.TokenLYS/
+
 
 # LYS Token for the LIGHTYEARS project
 
