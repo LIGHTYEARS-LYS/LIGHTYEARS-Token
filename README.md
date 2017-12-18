@@ -2,7 +2,7 @@
 
 LIGHTYEARS - LYS - visit the official Twitter page https://twitter.com/LIGHTYEARStoken 
 
-bitcointalk thread at https://bitcointalk.org/index.php?topic=2571812.0
+bitcointalk thread at https://bitcointalk.org/index.php?topic=2599216.msg26454860#msg26454860
 
 Telegram:https://t.me/joinchat/AAAAAE6pwbdI7nOrYJ2W-w
 
