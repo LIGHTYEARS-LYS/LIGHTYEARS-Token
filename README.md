@@ -8,6 +8,10 @@ Telegram:https://t.me/joinchat/AAAAAE6pwbdI7nOrYJ2W-w
 
 Facebook:https://www.facebook.com/LIGHTYEARS.TokenLYS/
 
+medium:https://medium.com/@lightyearstoken
+
+Website:http://lightyearstoken.com
+
 
 # LYS Token for the LIGHTYEARS project
 
