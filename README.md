@@ -17,7 +17,7 @@ Website:http://lightyearstoken.com
 
 Proof of Work: '''Scrypt'''
 
-Thanks to Jess and His Team , for helping us shaping the the contract, Open Zeppelin and SmartPool for the security audit
+Thanks to Jess and His Team , for helping us shaping the the contract.
 
 The LYS token is deployed at 0xdD41fBd1Ae95C5D9B198174A28e04Be6b3d1aa27
 
