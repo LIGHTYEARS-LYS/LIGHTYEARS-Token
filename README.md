@@ -28,5 +28,5 @@ Symbol: LYS
 
 Total Max Supply: 100,000,000 LIGHTYEARS
 
-Minimum Transaction Fee: 1 LYS
+
 
