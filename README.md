@@ -2,15 +2,15 @@
 
 LIGHTYEARS - LYS - visit the official Twitter page https://twitter.com/LIGHTYEARStoken 
 
-bitcointalk thread at https://bitcointalk.org/index.php?topic=2599216.msg26454860#msg26454860
+bitcointalk thread at https://bitcointalk.org/index.php?topic=2599216
 
-Telegram:https://t.me/joinchat/AAAAAE6pwbdI7nOrYJ2W-w
+Telegram:https://t.me/LIGHTYEARSToken
 
 Facebook:https://www.facebook.com/LIGHTYEARS.TokenLYS/
 
 medium:https://medium.com/@lightyearstoken
 
-Website:http://lightyearstoken.com
+Website:http://www.lightyearstoken.com
 
 
 # LYS Token for the LIGHTYEARS project
