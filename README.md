@@ -15,7 +15,6 @@ Website:http://www.lightyearstoken.com
 
 # LYS Token for the LIGHTYEARS project
 
-Proof of Work: '''Scrypt'''
 
 Thanks to Jess and His Team , for helping us shaping the the contract.
 
